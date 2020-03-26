@@ -1,0 +1,30 @@
+header {
+    background-color: rebeccapurple;
+    border-radius: 5px;
+    margin: 0;
+
+}
+footer {
+    background-color: blanchedalmond;
+    padding: 20px;
+    margin:0;
+
+}
+h1 {
+    color: pink;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    
+}
+h2 {
+    color: #388E3C;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+
+}
+h3 {
+    color: #C2847A;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+
+}
