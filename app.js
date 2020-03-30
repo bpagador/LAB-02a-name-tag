@@ -1,4 +1,10 @@
 const name = document.getElementById('name')
 
-name.style.color = 'red'
-name.textContent = 'Briseida'
+const myButton = document.getElementById('myButton')
+
+function changeName() {
+    name.style.color = 'red'
+    name.textContent = 'Briseida'
+}
+
+myButton.addEventListener('click', changeName)
